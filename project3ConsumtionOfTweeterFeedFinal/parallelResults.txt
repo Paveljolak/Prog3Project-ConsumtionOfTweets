@@ -1,0 +1,66 @@
+
+
+Time to pull 832 number of tweets: 4.127 seconds.
+Time to pull the pipeline: 1.719 seconds.
+Time needed to do analysis on 200 using 10 threads: 9.604 seconds.
+Average time per tweet: 0.04802 seconds.
+
+
+Time to pull the pipeline: 1.755 seconds.
+Time needed to do analysis on 200 using 10 threads: 9.961 seconds.
+Average time per tweet: 0.049805 seconds.
+
+
+Time to pull the pipeline: 1.799 seconds.
+Time needed to do analysis on 10 using 10 threads: 1.6 seconds.
+Average time per tweet: 0.16 seconds.
+
+
+Time to pull the pipeline: 1.307 seconds.
+Time needed to do analysis on 100 using 10 threads: 5.662 seconds.
+Average time per tweet: 0.05662 seconds.
+
+
+Time to pull the pipeline: 1.227 seconds.
+Time needed to do analysis on 100 using 20 threads: 5.41 seconds.
+Average time per tweet: 0.0541 seconds.
+
+
+Time to pull the pipeline: 1.242 seconds.
+Time needed to do analysis on 20 using 20 threads: 2.128 seconds.
+Average time per tweet: 0.10640000000000001 seconds.
+
+
+Time to pull the pipeline: 1.258 seconds.
+Time needed to do analysis on 100 using 5 threads: 5.455 seconds.
+Average time per tweet: 0.054549999999999994 seconds.
+
+
+Time to pull the pipeline: 1.297 seconds.
+Time needed to do analysis on 10 using 1 threads: 1.475 seconds.
+Average time per tweet: 0.1475 seconds.
+
+
+Time to pull the pipeline: 1.299 seconds.
+Time needed to do analysis on 30 using 3 threads: 2.674 seconds.
+Average time per tweet: 0.08913333333333334 seconds.
+
+
+Time to pull the pipeline: 5.937 seconds.
+Time needed to do analysis on 500 using 10 threads: 37.109 seconds.
+Average time per tweet: 0.074218 seconds.
+
+
+Time to pull the pipeline: 2.348 seconds.
+Time needed to do analysis on 200 using 4 threads: 7.429 seconds.
+Average time per tweet: 0.037145000000000004 seconds.
+
+
+Time to pull the pipeline: 1.192 seconds.
+Time needed to do analysis on 200 using 10 threads: 8.272 seconds.
+Average time per tweet: 0.04136 seconds.
+
+
+Time to pull the pipeline: 1.213 seconds.
+Time needed to do analysis on 200 using 8 threads: 7.838 seconds.
+Average time per tweet: 0.039189999999999996 seconds.

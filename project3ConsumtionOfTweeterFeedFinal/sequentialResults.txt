@@ -1,0 +1,54 @@
+Time needed to do the sentiment analysis of: 300 number of tweets: 40.153s
+Time needed to pull 833 the tweets: 5.393s
+Time needed to get the pipeline: 13.002s
+Time needed to do the sentiment analysis of: 200 number of tweets: 27.319s
+Time needed to pull 0 the tweets: 0.594s
+Time needed to get the pipeline: 12.539s
+Time needed to do the sentiment analysis of: 300 number of tweets: 39.422s
+Time needed to pull 829 the tweets: 3.596s
+Time needed to get the pipeline: 9.965s
+Time needed to do the sentiment analysis of: 300 number of tweets: 38.54s
+Time needed to pull 0 the tweets: 0.0s
+Time needed to get the pipeline: 10.276s
+Time needed to do the sentiment analysis of: 200 number of tweets: 33.808s
+Time needed to pull 0 the tweets: 3.926s
+Time needed to get the pipeline: 14.425s
+Time needed to do the sentiment analysis of: 100 number of tweets: 28.287s
+Time needed to pull 0 the tweets: 4.464s
+Time needed to get the pipeline: 22.937s
+Time needed to do the sentiment analysis of: 100 number of tweets: 19.025s
+Time needed to pull 0 the tweets: 0.0s
+Time needed to get the pipeline: 15.215s
+Time needed to do the sentiment analysis of: 100 number of tweets: 18.892s
+Time needed to get the pipeline: 14.664s
+Time needed to do the sentiment analysis of: 100 number of tweets: 18.955s
+Time needed to get the pipeline: 14.755s
+Time needed to do the sentiment analysis of: 50 number of tweets: 10.002s
+Time needed to get the pipeline: 14.26s
+Time needed to do the sentiment analysis of 20 number of tweets: 5.213s
+Time needed to get the pipeline: 16.54s
+Time needed to do the sentiment analysis of 10 number of tweets: 2.493s
+Time needed to get the pipeline: 10.283s
+
+
+Time needed to do the sentiment analysis of 20 number of tweets: 5.085s
+Time needed to get the pipeline: 10.614s
+
+
+
+Time needed to get the pipeline: 10.24s
+Time needed to do the sentiment analysis of 20 number of tweets: 4.46s
+Average time per tweet: 0.223s
+
+
+
+Time needed to get the pipeline: 10.161s
+Time needed to do the sentiment analysis of 30 tweets: 5.936s
+Average time per tweet: 0.19786666666666666s
+
+
+
+Time needed to get the pipeline: 17.975s
+Time needed to do the sentiment analysis of 200 tweets: 55.873s
+Average time per tweet: 0.27936500000000003s
+
