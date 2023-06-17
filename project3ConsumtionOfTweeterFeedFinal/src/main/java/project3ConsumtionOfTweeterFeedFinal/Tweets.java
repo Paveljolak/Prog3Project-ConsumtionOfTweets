@@ -43,10 +43,10 @@ public class Tweets {
 		ConfigurationBuilder configurationBuilder = new ConfigurationBuilder();
 
 		// Authentication of the profile from where we pull the tweets.
-		String consumerKey = "IwBeETPqv1JFgTgOXcAnb10P2";
-		String consumerKeySecret = "nKPYqhkE9qQJsq8xnCzonKPnfdXtVuh6NdEqWGzO21yRgF42Ej";
-		String accessKey = "1610746858061668352-vLpCU6g9isBU43KxDwdyCgnizGlVkz";
-		String accessKeySecret = "Pdgt9G2NVn2WWfM3tfJC6mZeD5JnuVKUpb0rUiO770pUg";
+		String consumerKey = "[enter-consumerKey]";
+		String consumerKeySecret = "[enter-consumerKeySecret]";
+		String accessKey = "[[enter-accessKey]";
+		String accessKeySecret = "[enter-acessKeySecret]";
 
 		configurationBuilder.setDebugEnabled(true)
 		.setOAuthConsumerKey(consumerKey)
